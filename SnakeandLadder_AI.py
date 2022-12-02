@@ -50,10 +50,10 @@ ladders = {
 }
 
 player_turn_text = [
-    "Your turn.",
+    "Your turn now.",
     "Go.",
     "Please proceed.",
-    "Lets win this.",
+    "We got this!!! Let's win this nowww.",
     "Are you ready?",
     "",
 ]
@@ -63,15 +63,17 @@ snake_bite = [
     "bummer",
     "snake bite",
     "oh no",
-    "dang"
+    "dang dang",
+    "OOPS"
 ]
 
 ladder_jump = [
     "woohoo",
     "woww",
-    "nailed it",
-    "oh my God...",
-    "yaayyy"
+    "nailed ittt",
+    "oh my Goddd!!!...",
+    "yaayyy",
+    "You little gamer"
 ]
 
 
