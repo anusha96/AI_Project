@@ -21,8 +21,8 @@ The Rules of the game is as follows,
       6. Next, the player can select how many moves to move on the board once the dice is rolled, i.e if the dice rolled is 3 then 
          the player can move 0,1,2 or 3 moves on the board.
          
-  The file SnakeandLadder_AI.py is the version of the game that's played between the AI agent and a player.
+    The file SnakeandLadder_AI.py is the version of the game that's played between the AI agent and a player.
   
-  The file SnakeandLadder_Humans.py is the version of the game that's played between two human players.
+     The file SnakeandLadder_Humans.py is the version of the game that's played between two human players.
   
   The snake and ladder environment can be changed.
