@@ -6,7 +6,7 @@ Implementation of Snake and Ladder game in AI
 
 This is a text based implementation of the Snake and Ladder game but with a twist!
 
-This game can be played between two human players and with an AI agent.
+This game can be played between a human player and with an AI agent.
 
 The Rules of the game is as follows,
 
@@ -21,8 +21,16 @@ The Rules of the game is as follows,
       6. Next, the player can select how many moves to move on the board once the dice is rolled, i.e if the dice rolled is 3 then 
          the player can move 0,1,2 or 3 moves on the board.
          
-    The file SnakeandLadder_AI.py is the version of the game that's played between the AI agent and a player.
+    The file SnakeandLadderAI.py is the version of the game that's played between two AI agents, (The experimental section)
+    The two AI's here are Tree based and Neural Network based AI.
+    100 different random samples are generated that represent every instance in the game and experimented against the Agents,
+    the  results from 3 different Neural Network configurations like layers and learning rate are then recorded.
+    
   
-     The file SnakeandLadder_Humans.py is the version of the game that's played between two human players.
+     The file snakeandladder_humans.py is the version of the game that's played between an AI agent and a human. In this version of the game the player gets to choose between two AI agents,
+     1. Tree Based AI
+     2. Neural Network Based AI
+    The player can choose the board size between 75, 100 and 200. 
+    The player can also choose the dice range once the dice is rolled.
   
   The snake and ladder environment can be changed.
