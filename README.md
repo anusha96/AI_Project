@@ -35,4 +35,4 @@ The Rules of the game is as follows,
   
   The snake and ladder environment can be changed.
   
-  The files NN_Model.py, NNVersion_2.py and NNVersion_3.py are different versions of Neural Network on a mid-size problem.
+  The files NN_Model.py, NNVersion2.py and NNVersion3.py are different versions of Neural Network on a mid-size problem.
