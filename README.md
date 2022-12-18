@@ -1,6 +1,12 @@
 # AI_Project
 Implementation of Snake and Ladder game in AI
 
+Authors:
+Anusha Prakash
+Janani Hemachandran
+Madhura Anand
+
+Affliations: Syracuse University, New York
 
 ![snakeandlad](https://user-images.githubusercontent.com/13360635/205380027-186e29aa-8141-452b-9e30-08739d8e3e55.jpg)
 
